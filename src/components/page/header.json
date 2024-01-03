@@ -1,0 +1,33 @@
+{
+  "collectionName": "components_page_headers",
+  "info": {
+    "displayName": "header",
+    "icon": "file",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "buttons": {
+      "displayName": "button",
+      "type": "component",
+      "repeatable": true,
+      "component": "page.button"
+    },
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

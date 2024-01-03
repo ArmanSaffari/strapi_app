@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_page_codes",
+  "info": {
+    "displayName": "code",
+    "icon": "hashtag"
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "blocks"
+    }
+  }
+}
